@@ -1,0 +1,28 @@
+{
+  "name": "@dropdowns/name-suffixes",
+  "version": "1.0.0",
+  "description": "A list of all name suffixes that can be used in form dropdown options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Andres (PDC Inc.)",
+  "license": "MIT",
+  "keywords": [
+    "name suffix",
+    "name suffixes",
+    "dropdown",
+    "dropdown name suffixes",
+    "name suffix list",
+    "name suffix dropdown"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradigmdcinc/dropdowns.git",
+    "directory": "packages/name-suffixes"
+  },
+  "bugs": {
+    "url": "https://github.com/paradigmdcinc/dropdowns/issues"
+  },
+  "homepage": "https://github.com/paradigmdcinc/dropdowns#readme"
+}

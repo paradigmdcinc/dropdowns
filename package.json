@@ -1,0 +1,19 @@
+{
+  "name": "dropdowns",
+  "version": "1.0.0",
+  "description": "Dropdown options for various categories used in Forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradigmdcinc/dropdowns.git"
+  },
+  "author": "Francis Andres (PDC Inc.)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paradigmdcinc/dropdowns/issues"
+  },
+  "homepage": "https://github.com/paradigmdcinc/dropdowns#readme"
+}

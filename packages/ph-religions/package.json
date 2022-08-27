@@ -1,0 +1,27 @@
+{
+  "name": "@dropdowns/ph-religions",
+  "version": "1.0.0",
+  "description": "A list of Philippine Statistics Authority Religious Affiliations that can be used in form dropdown options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Andres (PDC Inc.)",
+  "license": "MIT",
+  "keywords": [
+    "philippine religions",
+    "ph religions",
+    "religious affiliations",
+    "philippine religious affiliations",
+    "psa religions"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradigmdcinc/dropdowns.git",
+    "directory": "packages/ph-religions"
+  },
+  "bugs": {
+    "url": "https://github.com/paradigmdcinc/dropdowns/issues"
+  },
+  "homepage": "https://github.com/paradigmdcinc/dropdowns#readme"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "@dropdowns/psgc",
+  "version": "1.0.0",
+  "description": "A list of Philippine Standard Geographic Code that can be used in form dropdown options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Andres (PDC Inc.)",
+  "license": "MIT",
+  "keywords": [
+    "philippines address list",
+    "ph address list",
+    "psgc",
+    "philippine standard geographic code",
+    "philippine geographic code"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradigmdcinc/dropdowns.git",
+    "directory": "packages/psgc"
+  },
+  "bugs": {
+    "url": "https://github.com/paradigmdcinc/dropdowns/issues"
+  },
+  "homepage": "https://github.com/paradigmdcinc/dropdowns#readme"
+}
