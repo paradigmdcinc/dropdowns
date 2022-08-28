@@ -1,0 +1,27 @@
+{
+  "name": "@dropdowns/marital-status",
+  "version": "1.0.0",
+  "description": "A list of all marital status that can be used in form dropdown options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Andres (PDC Inc.)",
+  "license": "MIT",
+  "keywords": [
+    "marital status",
+    "dropdown",
+    "dropdown marital status",
+    "marital status list",
+    "marital status dropdown"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradigmdcinc/dropdowns.git",
+    "directory": "packages/marital-status"
+  },
+  "bugs": {
+    "url": "https://github.com/paradigmdcinc/dropdowns/issues"
+  },
+  "homepage": "https://github.com/paradigmdcinc/dropdowns#readme"
+}
