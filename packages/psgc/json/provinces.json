@@ -79,5 +79,9 @@
   {"name": "Lanao del Sur", "prv_code": "153600000", "reg_code": "150000000"},
   {"name": "Maguindanao", "prv_code": "153800000", "reg_code": "150000000"},
   {"name": "Sulu", "prv_code": "156600000", "reg_code": "150000000"},
-  {"name": "Tawi-Tawi", "prv_code": "157000000", "reg_code": "150000000"}
+  {"name": "Tawi-Tawi", "prv_code": "157000000", "reg_code": "150000000"},
+  {"name": "NCR, City of Manila, First District", "prv_code": "133900000", "reg_code": "130000000"},
+  {"name": "NCR, Second District", "prv_code": "137400000", "reg_code": "130000000"},
+  {"name": "NCR, Third District", "prv_code": "137500000", "reg_code": "130000000"},
+  {"name": "NCR, Fourth District", "prv_code": "137600000", "reg_code": "130000000"}
 ]

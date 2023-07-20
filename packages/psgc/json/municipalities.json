@@ -1632,5 +1632,19 @@
   {"name": "Turtle Islands", "mun_code": "157008000", "prv_code": "157000000"},
   {"name": "Languyan", "mun_code": "157009000", "prv_code": "157000000"},
   {"name": "Sapa-Sapa", "mun_code": "157010000", "prv_code": "157000000"},
-  {"name": "Sibutu", "mun_code": "157011000", "prv_code": "157000000"}
+  {"name": "Sibutu", "mun_code": "157011000", "prv_code": "157000000"},
+  {"name": "Binondo", "mun_code": "133902000", "prv_code": "133900000"},
+  {"name": "Ermita", "mun_code": "133908000", "prv_code": "133900000"},
+  {"name": "Intramuros", "mun_code": "133909000", "prv_code": "133900000"},
+  {"name": "Malate", "mun_code": "133910000", "prv_code": "133900000"},
+  {"name": "Paco", "mun_code": "133911000", "prv_code": "133900000"},
+  {"name": "Pandacan", "mun_code": "133912000", "prv_code": "133900000"},
+  {"name": "Port Area", "mun_code": "133913000", "prv_code": "133900000"},
+  {"name": "Quiapo", "mun_code": "133903000", "prv_code": "133900000"},
+  {"name": "Sampaloc", "mun_code": "133906000", "prv_code": "133900000"},
+  {"name": "San Miguel", "mun_code": "133907000", "prv_code": "133900000"},
+  {"name": "San Nicolas", "mun_code": "133904000", "prv_code": "133900000"},
+  {"name": "Santa Ana", "mun_code": "133914000", "prv_code": "133900000"},
+  {"name": "Santa Cruz", "mun_code": "133905000", "prv_code": "133900000"},
+  {"name": "Tondo I/II", "mun_code": "133901000", "prv_code": "133900000"}
 ]
